@@ -1,5 +1,8 @@
 ## Movies
 
+2021: 
+  Swan Song, https://www.imdb.com/title/tt13207508/
+
 2020:
   Greyhound, https://www.imdb.com/title/tt6048922/
 
@@ -71,5 +74,5 @@
   Rick and Morty
   See
   American Rust
-  
+  Mayor of Kingstown
   
