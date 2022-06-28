@@ -1,5 +1,9 @@
 ## Movies
 
+2022:
+  Men, https://www.imdb.com/title/tt13841850/
+  The Outfit, https://www.imdb.com/title/tt14114802/
+
 2021: 
   Swan Song, https://www.imdb.com/title/tt13207508/
 
@@ -55,6 +59,8 @@
       Shutter Island, https://www.imdb.com/title/tt1130884/
   
   ## Notable TV Series
+  All of Us are Dead
+  Shorsey
   Fargo
   True Detective
   The Sinner
